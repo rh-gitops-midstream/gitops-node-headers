@@ -1,0 +1,30 @@
+{
+    "name": "@types/react-form",
+    "version": "2.16.2",
+    "description": "TypeScript definitions for react-form",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Cameron McAteer",
+            "url": "https://github.com/cameron-mcateer",
+            "githubUsername": "cameron-mcateer"
+        },
+        {
+            "name": "Mathieu Masy",
+            "url": "https://github.com/TiuSh",
+            "githubUsername": "TiuSh"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/react": "*"
+    },
+    "typesPublisherContentHash": "259ec5a4c1db7222658467f2972450b48a5133c8615e952790d9feb00a5d28bb",
+    "typeScriptVersion": "2.8"
+}
